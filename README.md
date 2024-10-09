@@ -1,5 +1,9 @@
 # WPDomainChecker
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26114272-ae8e-4ecd-8123-bc3090303809">
+</p>
+
 **WPDomainChecker** is a simple command-line tool that checks a list of domains to identify which ones are powered by WordPress. This tool leverages HTTP requests to examine the presence of key WordPress components in the site's HTML content.
 
 ## Features
